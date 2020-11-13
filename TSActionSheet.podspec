@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'TSActionSheet'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of TSActionSheet.'
+  s.summary          = 'An easy use action sheet like UIAlertController & UIAlertAction.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?

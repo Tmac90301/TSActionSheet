@@ -1,0 +1,16 @@
+PODS:
+  - TSActionSheet (0.1.0)
+
+DEPENDENCIES:
+  - TSActionSheet (from `../`)
+
+EXTERNAL SOURCES:
+  TSActionSheet:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TSActionSheet: 80f71be48c50af5808bf9e35759cb3c6db706ef8
+
+PODFILE CHECKSUM: a031c470987f12f36ca420bed43a49743764caef
+
+COCOAPODS: 1.9.3
